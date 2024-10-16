@@ -5,7 +5,7 @@ import profile_img from "../../assets/about_profile.svg";
 const About = ()=>
 {
   return(
-    <div className="about">
+    <div id="about" className="about">
         <div className="about-title">
             <h1>About me</h1>
             <img src={theme_pattern} alt=""></img>
@@ -27,7 +27,7 @@ const About = ()=>
                 </div>
             </div>
         </div>
-     <div className="about-achievements">
+     {/* <div className="about-achievements">
         <div className="about-achievement">
             <h1>10+</h1>
             <p>YEARS OF EXPERIENCE</p>
@@ -42,7 +42,7 @@ const About = ()=>
             <h1>15+</h1>
             <p>HAPPY CLIENTS</p>
     </div>
-    </div>
+    </div> */}
     </div>
   );
 }

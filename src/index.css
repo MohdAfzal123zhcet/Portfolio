@@ -1,10 +1,11 @@
 *{
   margin:0;
   padding:0;
+  box-sizing: border-box;
 }
 body{
   height:100vh;
-  background:#161513;
+  background:#081b29;
   color:white;
   font-family: outfit;
 }
