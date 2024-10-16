@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css"
 import theme_pattern from "../../assets/theme_pattern.svg";
-import profile_img from "../../assets/about_profile.svg";
+import afzal_img from "../../assets/afzal-image.jpg";
 const About = ()=>
 {
   return(
@@ -12,18 +12,21 @@ const About = ()=>
         </div>
         <div className="about-sections">
             <div className="about-left">
-                <img src={profile_img} alt=""></img>
+                <img src={afzal_img} alt=""></img>
             </div>
             <div className="about-right">
                 <div className="about-para">
-                    <p>i have experince ifg hjdhhhsefh</p>
-                    <p>i am software dveloper ehujnde effhubcceeu</p>
+                    <p>A highly motivated full stack developer with a solid foundation in object-oriented programming and experience in
+                      building robust, scalable, and secure web applications.</p>
+                    <p>Tech Stack</p>
                 </div>
                 <div className="about-skills">
                     <div className="about-skill"><p>HTML & CSS</p><hr style={{width:"50%"}}></hr></div>
-                    <div className="about-skill"><p>React Js</p><hr style={{width:"70%"}}></hr></div>
-                    <div className="about-skill"><p>Java Script</p><hr style={{width:"60%"}}></hr></div>
-                    <div className="about-skill"><p>Java</p><hr style={{width:"50%"}}></hr></div>
+                    <div className="about-skill"><p>Java Script</p><hr style={{width:"70%"}}></hr></div>
+                    <div className="about-skill"><p>React Js</p><hr style={{width:"60%"}}></hr></div>
+                    <div className="about-skill"><p> Core Java</p><hr style={{width:"50%"}}></hr></div>
+                    <div className="about-skill"><p> Sql</p><hr style={{width:"60%"}}></hr></div>
+                    <div className="about-skill"><p>Spring Boot</p><hr style={{width:"50%"}}></hr></div>
                 </div>
             </div>
         </div>

@@ -4,6 +4,8 @@ import theme_pattern from "../../assets/theme_pattern.svg";
 import mail_icon from "../../assets/mail_icon.svg";
 import location_icon from "../../assets/location_icon.svg";
 import call_icon from "../../assets/call_icon.svg";
+import Linkedin_icon from "../../assets/linkedin_icon.png";
+import Github_icon from "../../assets/github_icon.png";
 const Contact = ()=>
 {
   const onSubmit = async (event) => {
@@ -47,6 +49,14 @@ const Contact = ()=>
                 <div className="contact-detail">
                 <img src={call_icon} alt=""></img>
                 <p>8630074875</p>
+                </div>
+                <div className="contact-detail">
+                <img src={Linkedin_icon} alt="" className="linkedin"></img>
+                <p><a href="https://www.linkedin.com/in/sheikh-mohd-afzal-ali/"alt="" target="_blank">LinkedIn</a></p>
+                </div>
+                <div className="contact-detail">
+                <img src={Github_icon} alt="" className="github"></img>
+                <p><a href="https://github.com/MohdAfzal123zhcet"alt=""target="_blank">Github</a></p>
                 </div>
                 <div className="contact-detail">
                 <img src={location_icon} alt=""></img>

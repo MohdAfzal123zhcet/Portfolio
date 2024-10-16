@@ -7,6 +7,20 @@
     margin-bottom:0px;
    
 }
+.my-name
+{
+    position:relative;
+}
+.my-name h3{
+    font-size:50px;
+    font-weight:600;
+}
+.my-name img{
+    position:absolute;
+    bottom:0;
+    right:0;
+    z-index:-1;
+}
 .nav-menu
 {
     display:flex;
@@ -26,12 +40,21 @@
 }
 .nav-connect:hover{
     transform:scale(1.05);
+    color:red;
 }
 .nav-menu li{
    display: flex;
    flex-direction: column;
-   gap:5px;
+   gap:15px; 
    cursor:pointer;
+}
+.nav-menu li p{
+   transition:0.4s;
+}
+.nav-menu li p:hover
+{
+    color:red;
+    transform:scale(1.05);
 }
 .nav-menu li img{
     display: flex;

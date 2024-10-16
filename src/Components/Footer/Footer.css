@@ -12,8 +12,21 @@ justify-content: space-between;
 }
 .footer-top-left p{
 font-size:20px;
-max-width:400px;
-
+max-width:450px;
+}
+.my-name
+{
+    position:relative;
+}
+.my-name h3{
+    font-size:60px;
+    font-weight:600;
+}
+.my-name img{
+    position:absolute;
+    bottom:0;
+    right:0;
+    z-index:-1;
 }
 .footer-bottom
 {
@@ -24,8 +37,34 @@ max-width:400px;
 .footer-bottom-right
 {
 display: flex;
-gap:50px;
-margin-bottom: 50px;
+gap:100px;
+margin-bottom: 80px;
+}
+.linkedin img{
+    width:30px;
+    height:30px;
+}
+.github img{
+    width:30px;
+    height:30px;
+}
+.linkedin p a
+{
+color:white;
+transition:0.4s;
+}
+.linkedin p a:hover{
+    color:red;
+    transform:scale(1.05);
+}
+.github p a
+{
+color:white;
+transition:0.4s;
+}
+.github p a:hover{
+    color:red;
+    transform:scale(1.05);
 }
 @media(max-width:768px)
 {
