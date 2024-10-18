@@ -11,7 +11,7 @@
 {
     position:relative;
 }
-.my-name h3{
+.my-name h5{
     font-size:50px;
     font-weight:600;
 }
@@ -48,10 +48,12 @@
    gap:15px; 
    cursor:pointer;
 }
-.nav-menu li p{
+.nav-menu li a{
    transition:0.4s;
+   text-decoration: none;
+   color:white;
 }
-.nav-menu li p:hover
+.nav-menu li a:hover
 {
     color:red;
     transform:scale(1.05);
@@ -118,4 +120,20 @@
         flex-direction: row;
         gap:20px;
     }
+
+.my-name
+{
+    position:relative;
+}
+.my-name h5{
+    font-size:35px;
+    font-weight:600;
+}
+.my-name img{
+    position:absolute;
+    bottom:0;
+    right:0;
+    z-index:-1;
+}
+
 }

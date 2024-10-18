@@ -2,6 +2,7 @@ import React from "react";
 import "./Hero.css";
 import profile_img from "../../assets/afzal-image.JPG";
 import AnchorLink from "react-anchor-link-smooth-scroll";
+import resume from "../../assets/resume.pdf"
 const Home = ()=>
 {
   return(
@@ -16,7 +17,7 @@ const Home = ()=>
         I am two times Gate qualified 2023 & 2024 with gate score of 458.</p>
      <div className="hero-action">
       <div className="hero-connect"><AnchorLink className="anchor-link" offset={50} href="#contact">Connect with me</AnchorLink></div>
-      <div className="hero-resume">My resume</div>
+      <div className="hero-resume"><a href={resume} download alt="">My resume</a></div>
      </div>
     </div>
   );

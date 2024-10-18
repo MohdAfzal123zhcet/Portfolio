@@ -40,7 +40,7 @@
     flex-direction:column;
     gap:80px;
 }
-.about-para
+.about-para 
 {
     display:flex;
     flex-direction:column;
@@ -145,6 +145,11 @@
     {
         font-size: 18px;
         line-height: 32px;
+    }
+    .about-para p
+    {
+        font-size:20px;
+        
     }
     .about-skill{
         gap:20px;
