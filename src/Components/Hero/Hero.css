@@ -89,7 +89,7 @@
 .hero-resume:hover { border-color: #B415FF; }
 
 /* ------- Mobile (stacked) ------- */
-@media (max-width: 768px) {
+@media (max-width: 500px) {
   .hero {
     flex-direction: column;      /* stack */
     gap: 35px;
