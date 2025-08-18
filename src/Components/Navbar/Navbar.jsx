@@ -4,7 +4,7 @@ import theme_pattern from "../../assets/theme_pattern.svg";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 import menu_open from "../../assets/menu_open.svg";
 import menu_close from "../../assets/menu_close.svg";
-import resume from "../../assets/resume.pdf"
+import resume from "../../assets/Resume.pdf"
 const Navbar = ()=>
     {
       const [menu,setMenu]= useState("home");
