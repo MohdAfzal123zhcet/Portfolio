@@ -161,7 +161,7 @@
     .about-para p
     {
         font-size:20px;
-       margin-left: -50px;
+       margin-left: -40px;
         
     }
     .about-para h1
@@ -171,7 +171,7 @@
         
     }
     .about-skill{
-        gap:10px;
+        gap:0px;
         margin-left: -45px
     }
    
@@ -181,10 +181,10 @@
          
     }
      #s1 {
-         width: 125px !important; }
+         width: 90px !important; }
     #s2
     {
-        width: 140px !important;
+        width: 105px !important;
 
     }
     #s3
@@ -199,34 +199,34 @@
     }
     #s5
     {
-        width:130px !important;
+        width:80px !important;
 
     }
     #s6
     {
-        width: 120px !important;
+        width: 140px !important;
 
 
     }
     #s7
     {
-        width: 140px !important;
+        width: 150px !important;
 
     }
     #s8
     {
-        width: 120px !important;
+        width: 70px !important;
 
     }
 
     #s9
     {
-        width: 160px !important;
+        width: 110px !important;
 
     }
     #s10
     {
-        width: 165px !important;
+        width: 115px !important;
 
     }
     .about-achievements{
