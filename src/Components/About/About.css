@@ -51,9 +51,21 @@
 .about-para p
 {
    width:90%;
-   font-size:30px;
+   font-size:22px;
+   line-height:40px;
    text-align: center;
+   
 }
+
+.about-para h1
+{
+    margin-left: 200px;
+     background: linear-gradient(270deg,#DF8908 10%,#B415FF 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .about-skills
 {
     display:flex;
@@ -68,7 +80,7 @@
     transition:0.3s;
 }
 .about-skill p{
-    min-width:150px;
+    min-width:200px;
     font-size:24px;
     font-weight:500;
 }

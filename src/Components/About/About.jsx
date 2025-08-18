@@ -16,17 +16,26 @@ const About = ()=>
             </div>
             <div className="about-right">
                 <div className="about-para">
-                    <p>A highly motivated full stack developer with a solid foundation in object-oriented programming and experience in
-                      building robust, scalable, and secure web applications.</p>
-                    <p>Tech Stack</p>
+                    <p>A highly Enthusiastic
+                         and results-driven Full Stack Java Developer with proven
+                          experience in building and deploying end-to-end web 
+                          applications from scratch using Spring Boot, RESTful
+                           APIs, React.js, and Docker. Skilled in designing 
+                           scalable architectures, integrating frontend and 
+                           backend systems, and delivering production-ready solutions..</p>
+                    <h1>Strong Tech Stack</h1>
                 </div>
                 <div className="about-skills">
-                    <div className="about-skill"><p>HTML & CSS</p><hr style={{width:"50%"}}></hr></div>
-                    <div className="about-skill"><p>Java Script</p><hr style={{width:"70%"}}></hr></div>
+                     <div className="about-skill"><p>Algorithm</p><hr style={{width:"55%"}}></hr></div>
+                     <div className="about-skill"><p>C Language</p><hr style={{width:"70%"}}></hr></div>
+                    <div className="about-skill"><p>Core Java</p><hr style={{width:"90%"}}></hr></div>
+                    <div className="about-skill"><p>Spring Boot</p><hr style={{width:"75%"}}></hr></div>
                     <div className="about-skill"><p>React Js</p><hr style={{width:"60%"}}></hr></div>
-                    <div className="about-skill"><p> Core Java</p><hr style={{width:"50%"}}></hr></div>
-                    <div className="about-skill"><p> Sql</p><hr style={{width:"60%"}}></hr></div>
-                    <div className="about-skill"><p>Spring Boot</p><hr style={{width:"50%"}}></hr></div>
+                     <div className="about-skill"><p>Docker Compose</p><hr style={{width:"50%"}}></hr></div>
+                      <div className="about-skill"><p>Git/GitHub (CI/CD)</p><hr style={{width:"70%"}}></hr></div>
+                    <div className="about-skill"><p>Java Script</p><hr style={{width:"50%"}}></hr></div>
+                    <div className="about-skill"><p>Html & Css</p><hr style={{width:"90%"}}></hr></div>
+                    <div className="about-skill"><p>Sql</p><hr style={{width:"95%"}}></hr></div>
                 </div>
             </div>
         </div>
