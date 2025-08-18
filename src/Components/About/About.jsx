@@ -23,7 +23,7 @@ const About = ()=>
                            APIs, React.js, and Docker. Skilled in designing 
                            scalable architectures, integrating frontend and 
                            backend systems, and delivering production-ready solutions..</p>
-                    <h1>Strong Tech Stack</h1>
+                    <h1>Tech Stack</h1>
                 </div>
                 <div className="about-skills">
                      <div className="about-skill"><p>Algorithm</p><hr id="s1" style={{width:"55%"}}></hr></div>
