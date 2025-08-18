@@ -26,16 +26,16 @@ const About = ()=>
                     <h1>Strong Tech Stack</h1>
                 </div>
                 <div className="about-skills">
-                     <div className="about-skill"><p>Algorithm</p><hr style={{width:"55%"}}></hr></div>
-                     <div className="about-skill"><p>C Language</p><hr style={{width:"70%"}}></hr></div>
-                    <div className="about-skill"><p>Core Java</p><hr style={{width:"90%"}}></hr></div>
-                    <div className="about-skill"><p>Spring Boot</p><hr style={{width:"75%"}}></hr></div>
-                    <div className="about-skill"><p>React Js</p><hr style={{width:"60%"}}></hr></div>
-                     <div className="about-skill"><p>Docker Compose</p><hr style={{width:"50%"}}></hr></div>
-                      <div className="about-skill"><p>Git/GitHub (CI/CD)</p><hr style={{width:"70%"}}></hr></div>
-                    <div className="about-skill"><p>Java Script</p><hr style={{width:"50%"}}></hr></div>
-                    <div className="about-skill"><p>Html & Css</p><hr style={{width:"90%"}}></hr></div>
-                    <div className="about-skill"><p>Sql</p><hr style={{width:"95%"}}></hr></div>
+                     <div className="about-skill"><p>Algorithm</p><hr id="s1" style={{width:"55%"}}></hr></div>
+                     <div className="about-skill"><p>C Language</p><hr id="s2" style={{width:"70%"}}></hr></div>
+                    <div className="about-skill"><p>Core Java</p><hr id="s3"style={{width:"90%"}}></hr></div>
+                    <div className="about-skill"><p>Spring Boot</p><hr id="s4" style={{width:"75%"}}></hr></div>
+                    <div className="about-skill"><p>React Js</p><hr id="s5" style={{width:"60%"}}></hr></div>
+                     <div className="about-skill"><p>Docker Compose</p><hr id="s6" style={{width:"50%"}}></hr></div>
+                      <div className="about-skill"><p>Git/GitHub (CI/CD)</p><hr id="s7" style={{width:"70%"}}></hr></div>
+                    <div className="about-skill"><p>Java Script</p><hr id="s8" style={{width:"50%"}}></hr></div>
+                    <div className="about-skill"><p>Html & Css</p><hr id="s9" style={{width:"90%"}}></hr></div>
+                    <div className="about-skill"><p>Sql</p><hr id="s10" style={{width:"95%"}}></hr></div>
                 </div>
             </div>
         </div>
