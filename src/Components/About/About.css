@@ -161,7 +161,7 @@
     .about-para p
     {
         font-size:20px;
-       margin-left: 0px;
+       margin-left: -30px;
         
     }
     .about-para h1
@@ -173,7 +173,7 @@
     }
     .about-skill{
         gap:15px;
-        margin-left: 0px
+        margin-left: -20px
     }
     .about-skill p
     {
