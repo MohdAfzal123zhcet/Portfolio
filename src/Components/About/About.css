@@ -161,7 +161,7 @@
     .about-para p
     {
         font-size:20px;
-       text-align:center;
+       margin-left: 0px;
         
     }
     .about-para h1
@@ -172,15 +172,16 @@
         
     }
     .about-skill{
-        gap:20px;
-        align-items: center;
+        gap:15px;
+        margin-left: 0px
     }
     .about-skill p
     {
         font-size: 20px;
          
     }
-     #s1 { width: 125px !important; }
+     #s1 {
+         width: 125px !important; }
     #s2
     {
         width: 140px !important;
