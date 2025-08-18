@@ -161,19 +161,18 @@
     .about-para p
     {
         font-size:20px;
-       margin-left: -30px;
+       margin-left: -50px;
         
     }
     .about-para h1
     {
         margin-left:40px ;
         height: 50px;
-        ;
         
     }
     .about-skill{
         gap:15px;
-        margin-left: -20px
+        margin-left: -35px
     }
     .about-skill p
     {
