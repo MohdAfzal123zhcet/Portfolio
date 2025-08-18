@@ -1,6 +1,6 @@
 import React from "react";
 import "./Hero.css";
-import profile_img from "../../assets/afzal-image.JPG";
+import profile_img from "../../assets/afzal-image.jpg";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 import resume from "../../assets/resume.pdf";
 
