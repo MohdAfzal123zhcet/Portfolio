@@ -66,7 +66,7 @@ transition:0.4s;
     color:red;
     transform:scale(1.05);
 }
-@media(max-width:768px)
+@media(max-width:500px)
 {
     .footer
     {
@@ -81,5 +81,9 @@ transition:0.4s;
         display: flex;
         flex-direction: column-reverse;
         margin-bottom: 50px
+    }
+    .footer h3{
+        font-size: 40px;
+        margin-left: 0px;
     }
 }

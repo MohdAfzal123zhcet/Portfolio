@@ -137,10 +137,8 @@
     }
     .about-title h1
     {
-         padding:0px 30px;
     font-size:50px;
-    
-
+    text-align: center;
     }
     .about-title img
     {
