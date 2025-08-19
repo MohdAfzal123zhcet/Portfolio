@@ -91,7 +91,7 @@
     {
         display:block;
         position:fixed;
-        right:10px;
+        right:30px;
     }
     .nav-mob-close
     {
@@ -128,7 +128,7 @@
 .my-name h5{
     font-size:35px;
     font-weight:600;
-    margin-left: -35px;
+    margin-left: -30px;
 }
 .my-name img{
     position:absolute;
