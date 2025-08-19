@@ -160,10 +160,11 @@
     }
     .about-para p
     {
-        font-size:20px;
+        font-size:16px;
        text-align: justify;
        margin-left: -40px;
-        
+        line-height: 28px;
+      width:90%
     }
     .about-para h1
     {
