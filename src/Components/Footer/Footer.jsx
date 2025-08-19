@@ -15,7 +15,7 @@ const Footer = ()=>
             <h3>Mohd Afzal</h3>
             <img src={theme_pattern} alt=""></img>
         </div>
-                <p>B.Tech in Computer Engineering  from ZHCET, Aligarh Muslim University</p>
+                <p>B.Tech in Computer Engineering  from ZHCET, Aligarh Muslim University @ 2023</p>
             </div>
         </div>
       <hr></hr>

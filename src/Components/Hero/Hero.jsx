@@ -19,10 +19,11 @@ const Home = () => {
         </h1>
 
         <p>
-          Enthusiastic and results-driven Full Stack Java Developer With Strong Problem Solving Mindset having hands-on experience in Spring Boot, RESTful
-          APIs, and React.js. Skilled in building scalable web applications using Java, JPA, MySQL/PostgreSQL, and
-          Docker.GATE-qualified with strong computer science fundamentals and problem-solving abilities. Well-versed in
-          OOP, SDLC, and Agile methodologies. Experienced in integrating frontend and backend systems, containerizing
+          Enthusiastic and results-driven Full Stack Java Developer With Strong Problem Solving Mindset having 
+          hands-on experience in Spring Boot, RESTful APIs, and React.js. Skilled in building scalable web 
+          applications using Java, JPA, MySQL/PostgreSQL, and Docker.GATE-qualified with strong computer science 
+          fundamentals and problem-solving abilities. Well-versed in OOP, SDLC, and Agile methodologies. 
+          Experienced in integrating frontend and backend systems, containerizing
           applications using Docker, and deploying solutions in dev/testing environments.
         </p>
 
