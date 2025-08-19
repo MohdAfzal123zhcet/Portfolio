@@ -24,6 +24,7 @@ const About = ()=>
                            scalable architectures, integrating frontend and 
                            backend systems, and delivering production-ready solutions..</p>
                     <h1>Tech Stack</h1>
+                     <img src={theme_pattern} alt=""></img>
                 </div>
                 <div className="about-skills">
                      <div className="about-skill"><p>Algorithm</p><hr id="s1" style={{width:"55%"}}></hr></div>

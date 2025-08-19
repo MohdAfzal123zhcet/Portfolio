@@ -56,16 +56,21 @@
    text-align: justify;
    
 }
-
+.about-para
+{
+    position: relative;
+}
 .about-para h1
 {
     margin-left: 200px;
-     background: linear-gradient(270deg,#DF8908 10%,#B415FF 100%);
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+   
 }
-
+.about-para img{
+    position: absolute;
+    bottom:0;
+    left:280px;
+    z-index:-1;
+}
 .about-skills
 {
     display:flex;
@@ -144,7 +149,7 @@
     .about-title img
     {
         width:120px;
-        right:-20px;
+         left:50px;
     }
     .about-sections
     {
@@ -173,6 +178,11 @@
         height: 50px;
         
     }
+    .about-para img{
+        width:120px;
+         left:70px; 
+         bottom: 10px;
+}
     .about-skill{
         gap:0px;
         margin-left: -45px

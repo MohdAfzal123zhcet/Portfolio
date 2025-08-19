@@ -148,8 +148,8 @@
     }
     .contact-title img
     {
-        width:130px;
-        margin-right:-20px;
+        width:120px;
+        left:-20;
     }
     .contact-section{
         flex-direction: column;

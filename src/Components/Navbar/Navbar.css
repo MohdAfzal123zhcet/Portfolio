@@ -132,8 +132,9 @@
 .my-name img{
     position:absolute;
     bottom:0;
-    right:0;
+    left:-20;
     z-index:-1;
+    width:120px;
 }
 
 }
