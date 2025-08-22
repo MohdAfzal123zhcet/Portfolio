@@ -11,18 +11,16 @@ const About = ()=>
             <img src={theme_pattern} alt=""></img>
         </div>
         <div className="about-sections">
-            <div className="about-left">
-                <img src={afzal_img} alt=""></img>
-            </div>
+          
             <div className="about-right">
                 <div className="about-para">
-                    <p>A highly Enthusiastic
-                         and results-driven Full Stack Java Developer with proven
-                          experience in building and deploying end-to-end web 
-                          applications from scratch using Spring Boot, RESTful
-                           APIs, React.js, and Docker. Skilled in designing 
-                           scalable architectures, integrating frontend and 
-                           backend systems, and delivering production-ready solutions..</p>
+                    <p>H'i My Name is Mohd Afzal, a Computer Engineering graduate from Aligarh Muslim University (2023) with a strong foundation in Object-Oriented Programming and expertise in Core Java and Spring Boot (Advanced). I also have hands-on experience in React.js, HTML, and CSS, which allows me to build scalable and user-friendly full-stack applications.
+
+I am a two-time GATE CSE qualifier (2023 & 2024) with a score of 458 in 2024, which reflects my strong problem-solving and analytical skills. I am highly adaptable, a fast learner, and capable of switching between different technology stacks as per organizational needs.
+
+Beyond technical skills, I bring a problem-solving mindset, adaptability, and continuous learning attitude to every project I work on.
+
+Outside of work, I enjoy traveling, exploring new places, and trying different cuisines, which keeps me curious and open to new experiences.</p>
                     <h1>Tech Stack</h1>
                      <img src={theme_pattern} alt=""></img>
                 </div>
