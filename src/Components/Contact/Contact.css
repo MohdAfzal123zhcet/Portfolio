@@ -133,7 +133,7 @@
     transition:0.3s;
   
 }
-@media(max-width:500px)
+@media(max-width:1100px)
 {
     .contact{
         gap:50px;
