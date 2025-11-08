@@ -19,12 +19,11 @@ const Home = () => {
         </h1>
 
         <p>
-          Enthusiastic and results-driven Full Stack Java Developer With Strong Problem Solving Mindset having 
-          hands-on experience in Spring Boot, RESTful APIs, and React.js. Skilled in building scalable web 
-          applications using Java, JPA, MySQL/PostgreSQL, and Docker.GATE-qualified with strong computer science 
-          fundamentals and problem-solving abilities. Well-versed in OOP, SDLC, and Agile methodologies. 
-          Experienced in integrating frontend and backend systems, containerizing
-          applications using Docker, and deploying solutions in dev/testing environments.
+     I am an aspiring Software Engineer with a strong foundation in full-stack development and AI-driven applications. With an MTech in Software Engineering, I specialize in building 
+     scalable and efficient web solutions using 
+     technologies like Spring Boot, Java, React, Flask, Docker, and PostgreSQL.
+     I’m passionate about crafting clean, maintainable code and leveraging technology to solve real-world problems. With a deep interest in AI integration, backend architecture, and system design, 
+     I aim to contribute to innovative software solutions that make an impact.
         </p>
 
         <div className="hero-action">
