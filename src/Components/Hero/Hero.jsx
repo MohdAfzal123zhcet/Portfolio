@@ -2,7 +2,7 @@ import React from "react";
 import "./Hero.css";
 import profile_img from "../../assets/afzal-image.jpg";
 import AnchorLink from "react-anchor-link-smooth-scroll";
-import resume from "../../assets/Resume.pdf";
+import resume from "../../assets/Afzal_Teaching_Resume.pdf";
 
 const Home = () => {
   return (
@@ -15,15 +15,11 @@ const Home = () => {
 
       <div className="hero-right">
         <h1>
-          Java Full Stack Developer
+          Software Engineer | Edge-Cases Thinker
         </h1>
 
         <p>
-     I am an aspiring Software Engineer with a strong foundation in full-stack development and AI-driven applications. With an MTech in Software Engineering, I specialize in building 
-     scalable and efficient web solutions using 
-     technologies like Spring Boot, Java, React, Flask, Docker, and PostgreSQL.
-     I’m passionate about crafting clean, maintainable code and leveraging technology to solve real-world problems. With a deep interest in AI integration, backend architecture, and system design, 
-     I aim to contribute to innovative software solutions that make an impact.
+   Software Engineering professional with an M.Tech background and a strong foundation in mathematics, algorithms, data structures, and system-level software development, complemented by a research-oriented approach to problem solving and system design. Skilled in designing and building scalable, efficient, and maintainable web applications using technologies such as Java, Spring Boot, React, Flask, Docker, and PostgreSQL. Demonstrates strong analytical abilities with a keen interest in backend architecture, AI integration, and applied research-driven solutions. Driven to develop practical, real-world software systems that deliver impact through clean code, sound design principles, and structured engineering practices.
         </p>
 
         <div className="hero-action">

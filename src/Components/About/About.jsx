@@ -14,18 +14,23 @@ const About = ()=>
           
             <div className="about-right">
                 <div className="about-para">
-                    <p>H'i My Name is Mohd Afzal, a Computer Engineering graduate from Aligarh Muslim University (2023) with a strong foundation in Object-Oriented Programming and expertise in Core Java and Spring Boot (Advanced). I also have hands-on experience in React.js, HTML, and CSS, which allows me to build scalable and user-friendly full-stack applications.
+                    <p>Hi, I’m Mohd Afzal, a Computer Engineering graduate from Aligarh Muslim University (2023) and currently pursuing an M.Tech in Computer/Software Engineering. I have a strong foundation in Object-Oriented Programming, Core Java, and Advanced Spring Boot, along with hands-on experience in React.js, HTML, and CSS, enabling me to build scalable and user-friendly full-stack applications with clean and maintainable architectures.
+                      <br></br>
+                      <br></br>
 
-I am a two-time GATE CSE qualifier (2023 & 2024) with a score of 458 in 2024, which reflects my strong problem-solving and analytical skills. I am highly adaptable, a fast learner, and capable of switching between different technology stacks as per organizational needs.
+I am a two-time GATE CSE qualifier (2023 & 2024), with a score of 458 in 2024, which enabled my postgraduate studies (M.Tech) and reflects my strong analytical thinking, problem-solving skills, and command over core computer science fundamentals. I am highly adaptable, a fast learner, and comfortable working across different technology stacks based on project or organizational needs.<br>
+</br>
+<br></br>
 
-Beyond technical skills, I bring a problem-solving mindset, adaptability, and continuous learning attitude to every project I work on.
+Alongside my technical journey, I bring over 5 years of experience as a home tutor, teaching Physics and Mathematics to Class 11th and 12th students. This experience has strengthened my ability to explain complex concepts clearly, mentor students with diverse learning styles, and approach problems in a structured, systematic manner.<br></br><br></br>
 
-Outside of work, I enjoy traveling, exploring new places, and trying different cuisines, which keeps me curious and open to new experiences.</p>
+Beyond academics and work, I enjoy traveling, exploring new places, and trying different cuisines, which keeps me curious, open-minded, and continuously motivated to learn and grow. I aim to combine my technical expertise, teaching experience, and research-oriented mindset to create practical, real-world software solutions with meaningful impact.</p>
                     <h1>Tech Stack</h1>
                      <img src={theme_pattern} alt=""></img>
                 </div>
                 <div className="about-skills">
                      <div className="about-skill"><p>Algorithm</p><hr id="s1" style={{width:"55%"}}></hr></div>
+                     <div className="about-skill"><p>Mathematics</p><hr id="s1" style={{width:"70%"}}></hr></div>
                      <div className="about-skill"><p>C Language</p><hr id="s2" style={{width:"70%"}}></hr></div>
                     <div className="about-skill"><p>Core Java</p><hr id="s3"style={{width:"90%"}}></hr></div>
                     <div className="about-skill"><p>Spring Boot</p><hr id="s4" style={{width:"75%"}}></hr></div>
