@@ -12,8 +12,8 @@
 .hero-left img {
   margin-top: 0;            /* remove extra top gap on desktop */
   width: 300px;
-  height: 400px;
-  border-radius: 50%;       /* gol photo */
+  height: 450px;
+  border-radius: 10px;       /* gol photo */
   object-fit: cover;
 }
 
